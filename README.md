@@ -1,8 +1,6 @@
 ## 技术栈  I'm Juan Se
 ## Web Developer 👨‍💻
 
-<p align="left"> <img hidden src="https://komarev.com/ghpvc/?username=sbtn63&label=Profile%20views&color=0e75b6&style=flat" alt="sbtn63" /> </p>
-
 
 ```javascript
 const sbtn63 = {
