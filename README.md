@@ -18,7 +18,10 @@ Linux
 
 ```
 
-<h3 align="center">Top langs</h3>
-<hr><br>
+<h3 align="center" style="color: black;">Top langs</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbtn63&langs_count=10&theme=tokyonight&layout=compact" alt="sbtn63 :: Top Langs" /></p>
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbtn63&layout=compact" />
+</p>
