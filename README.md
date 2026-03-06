@@ -3,7 +3,7 @@
 
 
 ```javascript
-const zandalio63 = {
+const sbtn63 = {
   code: [Javascript, HTML, CSS, Rust, Python, SQL],
   frameworks: [Django, Axum, FastAPI, Tailwind],
 automation: [ Vba, Office Script, Power Query, GitHub Actions]
