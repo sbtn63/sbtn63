@@ -1,11 +1,12 @@
 ## 技术栈  I'm Juan Se
-## Web Developer 👨‍💻
+## Software Developer 👨‍💻
 
 
 ```javascript
-const sbtn63 = {
-  code: [Javascript, HTML, CSS, PHP, Python, SQL],
-  frameworks: [Django, Laravel, FastAPI, Tailwind]
+const zandalio63 = {
+  code: [Javascript, HTML, CSS, Rust, Python, SQL],
+  frameworks: [Django, Axum, FastAPI, Tailwind],
+automation: [ Vba, Office Script, Power Query, GitHub Actions]
 }
 ```
 
@@ -16,7 +17,7 @@ const sbtn63 = {
 Linux                  
 █████████████████████████   100.0%
 
-```
+``` 
 
 <h3 align="center" style="color: black;">Top langs</h3>
 
